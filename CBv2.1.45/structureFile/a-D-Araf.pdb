@@ -1,0 +1,21 @@
+ATOM      1  O4  ARB     0       0.175  -1.175   0.482  1.00  0.00      CARB O 
+ATOM      2  C1  ARB     0      -1.236  -1.086   0.307  1.00  0.00      CARB C 
+ATOM      3  H1  ARB     0      -1.703  -1.327   1.288  1.00  0.00      CARB H 
+ATOM      4  O1  ARB     0      -1.622  -2.019  -0.646  1.00  0.00      CARB O 
+ATOM      5  HO1 ARB     0      -0.964  -2.717  -0.571  1.00  0.00      CARB H 
+ATOM      6  C4  ARB     0       0.787  -0.093  -0.236  1.00  0.00      CARB C 
+ATOM      7  H4  ARB     0       0.761  -0.353  -1.320  1.00  0.00      CARB H 
+ATOM      8  C5  ARB     0       2.213   0.143   0.204  1.00  0.00      CARB C 
+ATOM      9  H51 ARB     0       2.579   1.093  -0.250  1.00  0.00      CARB H 
+ATOM     10  H52 ARB     0       2.246   0.248   1.312 -1.00  0.00      CARB H 
+ATOM     11  O5  ARB     0       3.077  -0.924  -0.202  1.00  0.00      CARB O 
+ATOM     12  HO5 ARB     0       3.968  -0.791   0.134  1.00  0.00      CARB H 
+ATOM     13  C2  ARB     0      -1.530   0.373  -0.129  1.00  0.00      CARB C 
+ATOM     14  H2  ARB     0      -1.783   0.387  -1.215  1.00  0.00      CARB H 
+ATOM     15  O2  ARB     0      -2.565   1.024   0.588  1.00  0.00      CARB O 
+ATOM     16  HO2 ARB     0      -3.418   0.766   0.222  1.00  0.00      CARB H 
+ATOM     17  C3  ARB     0      -0.168   1.052   0.063  1.00  0.00      CARB C 
+ATOM     18  H3  ARB     0      -0.043   1.373   1.123  1.00  0.00      CARB H 
+ATOM     19  O3  ARB     0       0.027   2.154  -0.792  1.00  0.00      CARB O 
+ATOM     20  HO3 ARB     0      -0.615   2.835  -0.562  1.00  0.00      CARB H 
+END

@@ -1,0 +1,29 @@
+REMARK  COORDINATES FOR GLUCOSE AFTER PMFMOD_VAC MD                                   
+REMARK  IN SOLUTION.                                                                  
+REMARK   DATE:     6/ 3/ 5     14:21:29      CREATED BY USER: mkuttel                 
+ATOM      1  C1  AGLC    1      -7.365   5.545  -8.735  1.00  0.00      GLUC
+ATOM      2  H1  AGLC    1      -6.886   5.985  -7.838  1.00  0.00      GLUC
+ATOM      3  O1  AGLC    1      -6.692   4.393  -9.134  1.00  0.00      GLUC
+ATOM      4  HO1 AGLC    1      -6.824   3.749  -8.429  1.00  0.00      GLUC
+ATOM      5  C5  AGLC    1      -9.735   5.298  -9.326  1.00  0.00      GLUC
+ATOM      6  H5  AGLC    1     -10.082   6.340  -9.268  1.00  0.00      GLUC
+ATOM      7  O5  AGLC    1      -8.680   5.137  -8.356  1.00  0.00      GLUC
+ATOM      8  C2  AGLC    1      -7.387   6.551  -9.891  1.00  0.00      GLUC
+ATOM      9  H2  AGLC    1      -6.346   6.791 -10.165  1.00  0.00      GLUC
+ATOM     10  O2  AGLC    1      -8.038   7.767  -9.502  1.00  0.00      GLUC
+ATOM     11  HO2 AGLC    1      -7.477   8.267  -8.901  1.00  0.00      GLUC
+ATOM     12  C3  AGLC    1      -8.084   5.962 -11.113  1.00  0.00      GLUC
+ATOM     13  H3  AGLC    1      -8.479   6.795 -11.720  1.00  0.00      GLUC
+ATOM     14  O3  AGLC    1      -7.133   5.240 -11.886  1.00  0.00      GLUC
+ATOM     15  HO3 AGLC    1      -6.685   4.627 -11.280  1.00  0.00      GLUC
+ATOM     16  C4  AGLC    1      -9.215   5.011 -10.725  1.00  0.00      GLUC
+ATOM     17  H4  AGLC    1      -8.843   3.972 -10.719  1.00  0.00      GLUC
+ATOM     18  O4  AGLC    1     -10.269   5.121 -11.680  1.00  0.00      GLUC
+ATOM     19  HO4 AGLC    1      -9.922   4.853 -12.540  1.00  0.00      GLUC
+ATOM     20  C6  AGLC    1     -10.901   4.377  -8.967  1.00  0.00      GLUC
+ATOM     21  H61 AGLC    1     -11.262   4.629  -7.958  1.00  0.00      GLUC
+ATOM     22  H62 AGLC    1     -11.741   4.568  -9.653  1.00  0.00      GLUC
+ATOM     23  O6  AGLC    1     -10.514   3.004  -9.025  1.00  0.00      GLUC
+ATOM     24  HO6 AGLC    1     -11.270   2.429  -8.870  1.00  0.00      GLUC
+END
+

@@ -1,0 +1,24 @@
+ATOM      1  C1  BRHM    1      -1.420  -3.116  -1.082  1.00  0.00      CARB C 
+ATOM      2  H1  BRHM    1      -1.103  -4.122  -0.724  1.00  0.00      CARB H 
+ATOM      3  O1  BRHM    1      -0.637  -2.784  -2.187  1.00  0.00      CARB O 
+ATOM      4  HO1 BRHM    1      -1.005  -1.942  -2.476  1.00  0.00      CARB H 
+ATOM      5  C5  BRHM    1      -1.934  -2.475   1.137  1.00  0.00      CARB C 
+ATOM      6  H5  BRHM    1      -1.595  -3.470   1.511  1.00  0.00      CARB H 
+ATOM      7  O5  BRHM    1      -1.214  -2.149  -0.055  1.00  0.00      CARB O 
+ATOM      8  C2  BRHM    1      -2.892  -3.139  -1.490  1.00  0.00      CARB C 
+ATOM      9  H2  BRHM    1      -3.020  -3.945  -2.252  1.00  0.00      CARB H 
+ATOM     10  O2  BRHM    1      -3.358  -1.915  -2.080  1.00  0.00      CARB O 
+ATOM     11  HO2 BRHM    1      -4.317  -1.998  -2.172  1.00  0.00      CARB H 
+ATOM     12  C3  BRHM    1      -3.718  -3.505  -0.273  1.00  0.00      CARB C 
+ATOM     13  H3  BRHM    1      -3.404  -4.522   0.066  1.00  0.00      CARB H 
+ATOM     14  O3  BRHM    1      -5.112  -3.568  -0.577  1.00  0.00      CARB O 
+ATOM     15  HO3 BRHM    1      -5.576  -3.723   0.257  1.00  0.00      CARB H 
+ATOM     16  C4  BRHM    1      -3.432  -2.528   0.854  1.00  0.00      CARB C 
+ATOM     17  H4  BRHM    1      -3.755  -1.511   0.524  1.00  0.00      CARB H 
+ATOM     18  O4  BRHM    1      -4.159  -2.873   2.035  1.00  0.00      CARB O 
+ATOM     19  HO4 BRHM    1      -4.333  -2.075   2.546  1.00  0.00      CARB H 
+ATOM     20  C6  BRHM    1      -1.538  -1.408   2.172  1.00  0.00      CARB C 
+ATOM     21  H61 BRHM    1      -2.008  -1.614   3.154  1.00  0.00      CARB H 
+ATOM     22  H62 BRHM    1      -1.848  -0.401   1.821  1.00  0.00      CARB H 
+ATOM     23  H63 BRHM    1      -0.434  -1.402   2.302 -1.00  0.00      CARB H 
+END

@@ -1,0 +1,10 @@
+ATOM      1  N   AGNAX   1       0.978  -1.872   2.462  1.00  0.00      MOL  N
+ATOM      2  C   AGNAX   1       1.251  -1.481   3.747  1.00  0.00      MOL  C
+ATOM      3  CT  AGNAX   1       1.871  -2.567   4.605  1.00  0.00      MOL  C
+ATOM      4  N2  AGNAX   1       1.031  -0.368   4.186  1.00  0.00      MOL  N
+ATOM      5  HN  AGNAX   1       1.192  -2.833   2.159  1.00  0.00      MOL  H
+ATOM      6  HT1 AGNAX   1       2.062  -2.197   5.639  1.00  0.00      MOL  H
+ATOM      7  HT2 AGNAX   1       2.844  -2.893   4.170  1.00  0.00      MOL  H
+ATOM      8  HT3 AGNAX   1       1.189  -3.445   4.673  1.00  0.00      MOL  H
+ATOM      9  HN2 AGNAX   1       0.628   0.193   3.463  1.00  0.00      MOL  H
+END

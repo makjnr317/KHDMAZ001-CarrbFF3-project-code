@@ -1,0 +1,36 @@
+ATOM      1  C1  BMNA    1       1.477  -1.730  -0.126  1.00  0.00      CARB C 
+ATOM      2  H1  BMNA    1       1.412  -2.836  -0.233  1.00  0.00      CARB H 
+ATOM      3  O1  BMNA    1       2.710  -1.303  -0.608  1.00  0.00      CARB O 
+ATOM      4  HO1 BMNA    1       2.560  -0.353  -0.799  1.00  0.00      CARB H 
+ATOM      5  C5  BMNA    1      -0.853  -1.221  -0.545  1.00  0.00      CARB C 
+ATOM      6  H5  BMNA    1      -1.157  -2.254  -0.822  1.00  0.00      CARB H 
+ATOM      7  O5  BMNA    1       0.518  -1.092  -0.959  1.00  0.00      CARB O 
+ATOM      8  C2  BMNA    1       1.315  -1.308   1.321  1.00  0.00      CARB C 
+ATOM      9  H2  BMNA    1       2.076  -1.873   1.916  1.00  0.00      CARB H 
+ATOM     10  N   BMNA    1       1.574   0.114   1.514  1.00  0.00      CARB N 
+ATOM     11  HN  BMNA    1       1.559   0.670   0.667  1.00  0.00      CARB H 
+ATOM     12  C   BMNA    1       2.004   0.697   2.634  1.00  0.00      CARB C 
+ATOM     13  O   BMNA    1       2.208   0.100   3.683  1.00  0.00      CARB O 
+ATOM     14  CT  BMNA    1       2.252   2.177   2.536  1.00  0.00      CARB C 
+ATOM     15  HT1 BMNA    1       1.298   2.722   2.678  1.00  0.00      CARB H 
+ATOM     16  HT2 BMNA    1       2.666   2.417   1.533  1.00  0.00      CARB H 
+ATOM     17  HT3 BMNA    1       2.976   2.479   3.319  1.00  0.00      CARB H 
+ATOM     18  C3  BMNA    1      -0.062  -1.794   1.734  1.00  0.00      CARB C 
+ATOM     19  H3  BMNA    1      -0.144  -2.876   1.469  1.00  0.00      CARB H 
+ATOM     20  O3  BMNA    1      -0.284  -1.714   3.135  1.00  0.00      CARB O 
+ATOM     21  HO3 BMNA    1      -1.233  -1.600   3.254  1.00  0.00      CARB H 
+ATOM     22  C4  BMNA    1      -1.121  -1.043   0.953  1.00  0.00      CARB C 
+ATOM     23  H4  BMNA    1      -1.046   0.029   1.243  1.00  0.00      CARB H 
+ATOM     24  O4  BMNA    1      -2.441  -1.484   1.297  1.00  0.00      CARB O 
+ATOM     25  HO4 BMNA    1      -3.066  -1.130   0.648  1.00  0.00      CARB H 
+ATOM     26  C6  BMNA    1      -1.760  -0.304  -1.348  1.00  0.00      CARB C 
+ATOM     27  O6  BMNA    1      -2.835  -0.742  -1.754  1.00  0.00      CARB O 
+ATOM     28  NB  BMNA    1      -1.595   1.038  -1.366  1.00  0.00      CARB N 
+ATOM     29  HNB BMNA    1      -2.209   1.505  -1.990  1.00  0.00      CARB H 
+ATOM     30  CAB BMNA    1      -0.509   1.875  -0.846  1.00  0.00      CARB   
+ATOM     31 HA1B BMNA    1      -0.348   1.657   0.194  1.00  0.00      CARB   
+ATOM     32 HA2B BMNA    1      -0.814   2.899  -0.994  1.00  0.00      CARB   
+ATOM     33  CTB BMNA    1       0.843   1.756  -1.559  1.00  0.00      CARB   
+ATOM     34 OT1B BMNA    1       0.897   2.058  -2.777  1.00  0.00      CARB   
+ATOM     35 OT2B BMNA    1       1.843   1.411  -0.870  1.00  0.00      CARB   
+END

@@ -1,0 +1,19 @@
+ATOM      1  P1  GL1P    1      -4.527  -0.828   1.008  0.00  0.00      CARB P 
+ATOM      2  OP2 GL1P    1      -5.450  -1.285  -0.178  0.00  0.00      CARB O 
+ATOM      3  OP3 GL1P    1      -5.143   0.227   1.900  0.00  0.00      CARB O 
+ATOM      4  OP4 GL1P    1      -3.673  -1.943   1.575  0.00  0.00      CARB O 
+ATOM      5  HP2 GL1P    1      -5.016  -0.846  -0.924  0.00  0.00      CARB H 
+ATOM      6  C1  GL1P    1      -2.365   0.448   0.281  1.00  0.00      CARB C 
+ATOM      7  H1  GL1P    1      -2.316   0.692   1.372  1.00  0.00      CARB H 
+ATOM      8  H12 GL1P    1      -2.226   1.420  -0.247  1.00  0.00      CARB H 
+ATOM      9  O1  GL1P    1      -3.645  -0.098  -0.155  1.00  0.00      CARB O 
+ATOM     10  C2  GL1P    1      -1.210  -0.457  -0.120  1.00  0.00      CARB C 
+ATOM     11  H2  GL1P    1      -1.326  -0.774  -1.181  1.00  0.00      CARB H 
+ATOM     12  O2  GL1P    1      -1.198  -1.633   0.699  1.00  0.00      CARB O 
+ATOM     13  HO2 GL1P    1      -2.128  -1.771   1.010  1.00  0.00      CARB H 
+ATOM     14  C3  GL1P    1       0.109   0.241   0.110  1.00  0.00      CARB C 
+ATOM     15  H3  GL1P    1       0.096   0.786   1.081  1.00  0.00      CARB H 
+ATOM     16  H32 GL1P    1       0.937  -0.505   0.152  1.00  0.00      CARB H 
+ATOM     17  O3  GL1P    1       0.381   1.152  -0.965  1.00  0.00      CARB O 
+ATOM     18  HO3 GL1P    1       0.283   0.646  -1.777  1.00  0.00      CARB H 
+END

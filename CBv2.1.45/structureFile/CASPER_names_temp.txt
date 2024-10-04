@@ -1,0 +1,229 @@
+aDGlc	a-D-Glucopyranose 
+bDGlc	b-D-Glucopyranose 
+aDGlcA	a-D-Glucuronic acid 
+bDGlcA	b-D-Glucuronic acid 
+aDGlcNAc	2-Acetamido-2-deoxy-a-D-glucopyranose 
+bDGlcNAc	2-Acetamido-2-deoxy-b-D-glucopyranose 
+aDGal	a-D-Galactopyranose 
+bDGal	b-D-Galactopyranose 
+aDGalA	a-D-Galacturonic acid (sodium salt) 
+bDGalA	b-D-Galacturonic acid 
+aDGalNAc	2-Acetamido-2-deoxy-a-D-galactopyranose 
+bDGalNAc	2-Acetamido-2-deoxy-b-D-galactopyranose 
+aDMan	a-D-Mannopyranose 
+bDMan	b-D-Mannopyranose 
+aDManA	a-D-Mannuronic acid 
+bDManA	b-D-Mannuronic acid 
+aDManNAc	2-Acetamido-2-deoxy-a-D-mannopyranose 
+bDManNAc	2-Acetamido-2-deoxy-b-D-mannopyranose 
+aLFuc	a-L-Fucopyranose 
+bLFuc	b-L-Fucopyranose 
+aLRha	a-L-Rhamnopyranose 
+bLRha	b-L-Rhamnopyranose 
+aDGlcOMe	
+bDGlcOMe	
+aDGlcAOMe	
+aDGalOMe	
+bDGalOMe	
+aDManOMe	
+bDManOMe	
+aLRhaOMe	
+bLRhaOMe	
+aLFucOMe	
+bLFucOMe	
+aDGalNAcOMe	Methyl 2-acetamido-a-D-galactopyranoside 
+bDGalNAcOMe	Methyl 2-acetamido-b-D-galactopyranoside 
+aDGlcNAcOMe	Methyl 2-acetamido-a-D-glucopyranoside 
+bDGlcNAcOMe	
+aDManNAcOMe	Methyl 2-acetamido-a-D-mannopyranoside 
+bDManNAcOMe	Methyl 2-acetamido-b-D-mannopyranoside 
+bDGlcAOMe	Methyl b-D-glucuronopyranoside 
+aDGalAOMe	Methyl a-D-galacturonopyranoside 
+bDGalAOMe	Methyl b-D-galacturonopyranoside 
+aDManAOMe	Methyl a-D-mannuronopyranoside 
+bDManAOMe	Methyl b-D-mannuronopyranoside 
+aLGlcOMe	
+bLGlcOMe	
+aLGalOMe	
+bLGalOMe	
+aLManOMe	
+bLManOMe	
+aDRhaOMe	
+bDRhaOMe	
+aDFucOMe	
+bLGlcNAcOMe	
+aLGalNAcOMe	
+bLGalNAcOMe	
+aLGlc	
+bLGlc	
+aLGlcA	
+bLGlcA	
+aLGlcNAc	
+bLGlcNAc	
+aLGal	
+bLGal	
+aLGalA	
+bLGalA	
+aLGalNAc	
+bLGalNAc	
+aLMan	
+bLMan	
+aLManA	
+bLManA	
+aLManNAc	
+bLManNAc	
+aDFuc	
+bDFuc	
+aDRha	
+bDRha	
+bDFucOMe	
+aDQui	a-D-Quinovose 
+aLQui	
+bDQui	b-D-Quinovose 
+bLQui	
+aDQuiNAc	2-Acetamido-2,6-dideoxy-a-D-glucose 
+bDQuiNAc	2-Acetamido-2,6-dideoxy-b-D-glucose 
+aLFucNAc	2-Acetamido-2,6-dideoxy-a-L-galactose 
+aDFucNAc	
+bLFucNAc	2-Acetamido-2,6-dideoxy-b-L-galactose 
+bDFucNAc	
+aLRhaNAc	2-Acetamido-2,6-dideoxy-a-L-mannose 
+aDRhaNAc	
+bLRhaNAc	2-Acetamido-2,6-dideoxy-b-L-mannose 
+bDRhaNAc	
+aDGalANAc	2-Acetamido-2-deoxy-a-D-galacturonic acid 
+bDGalANAc	2-Acetamido-2-deoxy-b-D-galacturonic acid 
+aDGlcANAc	2-Acetamido-2-deoxy-a-D-glucuronic acid 
+bDGlcANAc	2-Acetamido-2-deoxy-b-D-glucuronic acid 
+aDManANAc	2-Acetamido-2-deoxy-a-D-mannuronic acid 
+bDManANAc	2-Acetamido-2-deoxy-b-D-mannuronic acid 
+aDQuiOMe	Methyl 6-deoxy-a-D-glycopyranoside 
+bDQuiOMe	Methyl 6-deoxy-b-D-glycopyranoside 
+aLFucNAcOMe	Methyl 2-acetamido-2-deoxy-a-L-fucopyranoside 
+bLFucNAcOMe	Methyl 2-acetamido-2-deoxy-b-L-fucopyranoside 
+aLRhaNAcOMe	Methyl 2-acetamido-2-deoxy-a-L-rhamnopyranoside 
+bLRhaNAcOMe	Methyl 2-acetamido-2-deoxy-b-L-rhamnopyranoside 
+aDQuiNAcOMe	Methyl 2-acetamido-2-deoxy-a-D-quinovopyranosidea-D-QuipNAc-(1-1)-OMe 
+bDQuiNAcOMe	Methyl 2-acetamido-2-deoxy-b-D-quinovopyranosideb-D-QuipNAc-(1-1)-OMe 
+bDXylOMe	Methyl b-D-Xylopyranoside 
+aDXyl	a-D-Xylopyranose 
+bDXyl	b-D-Xylopyranose 
+DGlcol	D-Glucitol 
+DGalNAcol	D-GalNAcitol 
+DGlcNAcol	D-GlcNAcitol 
+DGro	 
+LGro	 
+aDAra	a-D-Arabinopyranose 
+bDAra	b-D-Arabinopyranose 
+aDLyx	a-D-Lyxopyranose 
+bDLyx	b-D-Lyxopyranose 
+aDRib	a-D-Ribopyranose 
+bDRib	b-D-Ribopyranose 
+aLAra	
+bLAra	
+aLLyx	
+bLLyx	
+aLRib	
+bLRib	
+aLXyl	
+bLXyl	
+aDRibf	a-D-Ribofuranose 
+bDRibf	b-D-Ribofuranose 
+aDEryfOMe	Methyl a-D-erythrofuranoside 
+aDRibfOMe	Methyl a-D-ribofuranoside 
+aDAllfOMe	Methyl a-D-allofuranoside 
+bDEryfOMe	Methyl b-D-erythrofuranoside 
+bDRibfOMe	Methyl b-D-ribofuranoside 
+bDAllfOMe	Methyl b-D-allofuranoside 
+aDLyxfOMe	Methyl a-D-lyxofuranoside 
+bDLyxfOMe	Methyl b-D-lyxofuranoside 
+aLArafOMe	Methyl a-L-arabinofuranoside 
+bDGalfOMe	Methyl b-D-galactofuranoside 
+aDXylfOMe	Methyl a-D-xylofuranoside 
+aDGlcfOMe	Methyl a-D-glucofuranoside 
+bDXylfOMe	Methyl b-D-xylofuranoside 
+bDGlcfOMe	Methyl b-D-glucofuranoside 
+bDFru	b-D-fructopyranose 
+bDFruf	b-D-fructofuranose 
+aDApi	3-C-(hydroxymethyl)-a-D-erythrofuranose 
+bDApi	3-C-(hydroxymethyl)-b-D-erythrofuranose 
+threo-aDApi	3-C-(hydroxymethyl)-b-L-threofuranose 
+threo-bDApi	3-C-(hydroxymethyl)-a-L-threofuranose 
+aDGalf	
+bDGalf	
+bD2dGlcOMe	Methyl 2-deoxy-b-D-glucopyranoside 
+aParOMe	Paratose, methyl glycoside 
+aAbeOMe	Abequose, methyl glycoside 
+aTyvOMe	Tyvelose, a-methyl glycoside 
+bTyvOMe	Tyvelose, b-methyl glycoside 
+bD4dGlcOMe	Methyl 4-deoxy-b-D-glucopyranoside 
+aD6dTalOMe	Methyl 6-deoxy-a-D-talopyranoside 
+aMurNAc	
+bMurNAc	
+aisoMurNAc	
+bisoMurNAc	
+aDGlc46PyEOMe	Methyl a-D-glucoside, (S)-4,6-carboxyethylidene 
+bDGlc46PyEOMe	Methyl b-D-glucoside, (S)-4,6-carboxyethylidene 
+aDGal46PyEOMe	Methyl a-D-galactoside, (R)-4,6-carboxyethylidene 
+bDGal46PyEOMe	Methyl b-D-galactoside, (R)-4,6-carboxyethylidene 
+aDMan46PyEOMe	Methyl a-D-mannoside, (S)-4,6-carboxyethylidene 
+bDMan46PyEOMe	Methyl b-D-mannoside, (S)-4,6-carboxyethylidene 
+aDGlc46PyAOMe	Methyl a-D-glucoside, (R)-4,6-carboxyethylidene 
+aDGal46PyAOMe	Methyl a-D-galactoside, (S)-4,6-carboxyethylidene 
+bDMan46PyAOMe	Methyl b-D-mannoside, (R)-4,6-carboxyethylidene 
+RLac	(R)-1-carboxyethyl 
+SLac	(S)-1-carboxyethyl 
+aDIdo	a-D-Idopyranose 
+bDIdo	b-D-Idopyranose 
+aPar	a-Paratose (3,6-Dideoxy-D-ribo-hexose) 
+bPar	b-Paratose (3,6-Dideoxy-D-ribo-hexose) 
+aAbe	a-Abequose (3,6-Dideoxy-D-xylo-hexose) 
+bAbe	b-Abequose (3,6-Dideoxy-D-xylo-hexose) 
+aCol	a-Colitose (3,6-Dideoxy-L-xylo-hexose) 
+bCol	b-Colitose (3,6-Dideoxy-L-xylo-hexose) 
+aTyv	a-Tyvelose (3,6-Dideoxy-D-arabino-hexose) 
+bTyv	b-Tyvelose (3,6-Dideoxy-D-arabino-hexose) 
+aAsc	a-Ascarylose (3,6-Dideoxy-L-arabino-hexose) 
+bAsc	b-Ascarylose (3,6-Dideoxy-L-arabino-hexose) 
+aDGulNAcOMe	
+aDTalNAcOMe	
+aD6dTal2,4NAc	
+bD6dTal2,4NAc	
+LGly-aDGal9ddn5,7NAc	
+LGly-bDGal9ddn5,7NAc	
+LGly-aDTal9ddn5,7NAc	
+LGly-bDTal9ddn5,7NAc	
+DGly-aLAlt9ddn5,7NAc	
+DGly-bLAlt9ddn5,7NAc	
+DGly-aLMan9ddn5,7NAc	
+DGly-aDGal9ddn5,7NAc	
+DGly-bDGal9ddn5,7NAc	
+DGly-aDTal9ddn5,7NAc	
+DGly-bDTal9ddn5,7NAc	
+LGly-aLAlt9ddn5,7NAc	
+LGly-bLAlt9ddn5,7NAc	
+LGly-aLMan9ddn5,7NAc	
+LGly-bLMan9ddn5,7NAc	
+LGly-aLGlu9ddn5,7NAc	
+LGly-bLGlu9ddn5,7NAc	
+aDRha4NOMe	
+aDRha4N	
+cis_aDRha4NFoOMe	
+cis_aDRha4NFo	
+trans_aDRha4NFoOMe	
+trans_aDRha4NFo	
+aDRha4NAcOMe	
+aDRha4NAc	
+bNeu5Ac	5-N-acetyl-b-neuraminic acid 
+aNeu5Ac	5-N-acetyl-a-neuraminic acid 
+
+Three amino acids (reducing end in N- and O-glycans):
+Asn	asparagine
+Ser	serine 
+Thr	threonine 
+
+Substituents:
+Ac	O-Acetyl substituent 
+P	Phosphate 
+SO3	Sulfate 
+Me	Methyl substituent 

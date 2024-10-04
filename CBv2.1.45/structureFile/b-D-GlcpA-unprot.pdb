@@ -1,0 +1,23 @@
+ATOM      1  C6  BGLC    1      -3.870   3.432  -2.374  1.00  0.00      CARB C 
+ATOM      2  O6  BGLC    1      -4.972   4.008  -2.159  1.00  0.00      CARB O 
+ATOM      3  O62 BGLC    1      -3.201   3.375  -3.437  1.00  0.00      CARB O 
+ATOM      4  C1  BGLC    1      -1.338   1.951  -0.097  1.00  0.00      CARB C 
+ATOM      5  H1  BGLC    1      -1.559   0.896  -0.379  1.00  0.00      CARB H 
+ATOM      6  O1  BGLC    1       0.041   2.176  -0.135  1.00  0.00      CARB O 
+ATOM      7  HO1 BGLC    1       0.176   2.400  -1.063  1.00  0.00      CARB H 
+ATOM      8  C5  BGLC    1      -3.312   2.609  -1.198  1.00  0.00      CARB C 
+ATOM      9  H5  BGLC    1      -3.452   1.552  -1.504  1.00  0.00      CARB H 
+ATOM     10  O5  BGLC    1      -1.897   2.866  -1.015  1.00  0.00      CARB O 
+ATOM     11  C2  BGLC    1      -1.905   2.302   1.265  1.00  0.00      CARB C 
+ATOM     12  H2  BGLC    1      -1.715   3.392   1.435  1.00  0.00      CARB H 
+ATOM     13  O2  BGLC    1      -1.260   1.578   2.327  1.00  0.00      CARB O 
+ATOM     14  HO2 BGLC    1      -0.311   1.685   2.176  1.00  0.00      CARB H 
+ATOM     15  C3  BGLC    1      -3.411   2.097   1.266  1.00  0.00      CARB C 
+ATOM     16  H3  BGLC    1      -3.611   1.011   1.104  1.00  0.00      CARB H 
+ATOM     17  O3  BGLC    1      -3.945   2.446   2.545  1.00  0.00      CARB O 
+ATOM     18  HO3 BGLC    1      -3.363   2.039   3.195  1.00  0.00      CARB H 
+ATOM     19  C4  BGLC    1      -4.069   2.856   0.114  1.00  0.00      CARB C 
+ATOM     20  H4  BGLC    1      -4.014   3.948   0.343  1.00  0.00      CARB H 
+ATOM     21  O4  BGLC    1      -5.439   2.502  -0.047  1.00  0.00      CARB O 
+ATOM     22  HO4 BGLC    1      -5.696   3.046  -0.825  1.00  0.00      CARB H 
+END

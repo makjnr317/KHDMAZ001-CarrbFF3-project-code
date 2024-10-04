@@ -1,0 +1,75 @@
+aDAbe a-D-Abep.pdb a-abequose
+aAbe a-D-Abep.pdb a-abequose
+aDAll a-D-Allp.pdb a-D-alloseaDAllf a-D-Allf.pdb a-D-allose-f(furanose form)aDAlt a-D-Altp.pdb a-D-altroseaDAlt6d a-D-Altp6d.pdb 6-deoxy-a-D-altroseaDAra a-D-Arap.pdb a-D-arabinose
+aDAraf a-D-Araf.pdb a-D-arabofuranoseaDEry a-D-Eryf.pdb a-D-erythrose_(4_carbon_aldose)aDFru a-D-Frup.pdb a-D-fructopyranoseaDFruf a-D-Fruf.pdb a-D-fructofuranoseaDFuc a-D-Fucp.pdb a-D-fucoseaDFucnac a-D-FucNAc.pdbaDGal a-D-Galp.pdb a-D-galactopyranose
+aDGalf a-D-Galf.pdb a-D-galactofuranose
+aDGal23PyR aDGal23PyR.pdb -a-D-Galp23(R)Pyr
+aDGal23PyS aDGal23PyS.pdb -a-D-Galp23(S)PyraDGal46PyA aDGal46PyA.pdb a-D-pyruvyl-galactopyranose(axial)aDGal46PyE aDGal46PyE.pdb a-D-pyruvyl-galactopyranose(equatorial)aDGalA a-D-GalpA.pdbaDGlc a-D-Glcp.pdb a-D-glucopyranose
+aDGlc23PyR aDGlc23PyR.pdb -a-D-Glcp23(R)PyraDGlc23PyS aDGlc23PyS.pdb -a-D-Glcp23(S)PyraDGlc46PyA aDGlc46PyA.pdbaDGlc46PyE aDGlc46PyE.pdbaDGlcA a-D-GlcpA.pdbaDGlc6A a-D-GlcpA.pdbaDGlcnac a-D-GlcpNAc.pdb
+aDHep L-a-D-Hep.pdbaDIdo a-D-Idop.pdb a-D-idopyranose
+aDIdoA aidoa_olgun.pdb
+aDKdo a-D-Kdop.pdb 3-Deoxy-D-manno-oct-2-ulosonic_acidaKdo a-D-Kdop.pdb 3-Deoxy-D-manno-oct-2-ulosonic_acidaDLyx a-D-Lyxp.pdb a-D-lyxopyranoseaDLyxf a-D-Lyxf.pdb a-D-lyxofuranoseaDMan a-D-Manp_gg.pdb a-D-manopyranose
+aDMan23PyR aDMan23PyR.pdb -a-D-Manp23(R)PyraDMan23PyS aDMan23PyS.pdb -a-D-Manp23(S)PyraDMan46PyA aDMan46PyA.pdb a-D-pyruvyl-mannopyranose(axial)aDMan46PyE aDMan46PyE.pdb a-D-pyruvyl-mannopyranose(equatorial)aDManA a-D-ManpA.pdbaDManf a-D-Manf.pdb a-D-manofuranoseaDMannac a-D-ManNAc.pdb
+xDMdrvnac a-D-Mal.pdb
+aDMurnac a-D-MurNAc.pdb N-Acetylmuramic_acidaDNeu5Ac a-D-NeuNAc.pdb sialic_acidaDNeu5ac aDNeuNAc.pdb aNeu5Ac a-D-NeuNAc.pdb sialic_acid
+aDNeu5ac8Ac aDNeu5ac8Ac.pdb
+aDJunk junk.pdbaDPar a-D-Par.pdb a-paratose(3,6-dideoxy_D-glucose) aPar a-D-Par.pdb a-paratose(3,6-dideoxy_D-glucose) aDQui a-D-Quip.pdb a-quinovose(6-deoxy-D-glucose)aQui a-D-Quip.pdb a-quinovose(6-deoxy-D-glucose)aDRha a-D-Rhap.pdb a-D-rhamnose(6-deoxy-mannose)aDRib a-D-Ribp.pdb a-D-ribose
+aDTal a-D-Talp.pdb a-D-talose
+aDTyv a-D-Tyvp.pdb a-tyvelose(3,6-dideoxy_mannose)aTyv a-D-Tyvp.pdb a-tyvelose(3,6-dideoxy_mannose)aDRibf a-D-Ribf.pdb a-D-ribofuranoseaDXyl a-D-Xylp.pdb a—D-xylose(6-deoxy-glucose)aDXylf a-D-Xylf.pdb a-D-xylofuranoseaLAll a-L-Allp.pdb a-L-alloseaLAlt a-L-Altp.pdb a-L-altroseaLAlt6d a-L-Altp6d.pdb 6-deoxy-a-L-altroseaLAra a-L-Arap.pdb a-L-arabinoseaLAraf a-L-Araf.pdb a-L-arabofuranoseaLCol a-L-Colp.pdb a-colitose(3,6-dideoxy_L-galactose)aCol a-L-Colp.pdb a-colitose(3,6-dideoxy_L-galactose)aLFuc a-L-Fucp.pdb a-L-fucoseaLGal a-L-Galp.pdb a-L-galactoseaLGalA a-L-GalpA.pdbaLGlcA a-L-GlcpA.pdb
+aLGul a-L-Gulp.pdb a-L-guloseaLIdo a-L-Ido.pdb a-L-idopyranoseaLIdoA a-L-IdoA.pdb
+aLIdod aL6dIdo_4C1.pdb a-L-6-deoxy-IdoseaLIdod_1C4_ aL6dIdo_1C4.pdb a-L-6-deoxy-Idose(1C4_ring_conformation)aLIdod_4C1_ aL6dIdo_4C1.pdb a-L-6-deoxy-Idose(4C1_ring_conformation)aLLyx a-L-Lyxp.pdb a-L-lyxoseaLMan a-L-Manp.pdb a-L-mannoseaLManA a-L-ManpA.pdb
+aLPneNAc a-L-PneNAc.pdb 2-acetamido-2,6-dideoxy-l-talose(pneumosamine)aLRha a-L-Rhap.pdb a-rhamnose(6-deoxy_L-mannose)
+xLRha a-L-Rha_hack.pdbaLRib a-L-Ribp.pdb a-L-ribose
+aLTal a-L-Talp.pdb a-L-taloseaLXyl a-L-Xylp.pdb a-L-xylosebDAbe b-D-Abep.pdb b-abequose
+bAbe b-D-Abep.pdb b-abequose
+bDAll b-D-Allp.pdb b-D-allosebDAllf b-D-Allf.pdb b-D-allose(furanose_form)bDAlt b-D-Altp.pdb b-D-altrosebDAlt6d b-D-Altp6d.pdb 6-deoxy-b-D-altrosebDAra b-D-Arap.pdb b-D-arabinose
+bDAraf b-D-Araf.pdb b-D-arabofuranosebDEryf b-D-Eryf.pdb b-D-erythose(furanose_from)bDFru b-D-Frup.pdb b-D-FructosebDFruf b-D-Fruf.pdb b-D-fructose(furanose_form)bDFuc b-D-Fucp.pdb b-D-fucosebDGal b-D-Galp.pdb b-D-galactose
+bDGal23PyR bDGal23PyR.pdb -b-D-Galp23(R)Pyr
+bDGal23PyS bDGal23PyS.pdb -b-D-Galp23(S)PyrbDGal46PyA bDGal46PyA.pdb b-D-pyruvyl-galactosepyranose(axial)bDGal46PyE bDGal46PyE.pdb b-D-pyruvyl-galactosepyranose(equatorial)bDGalA b-D-GalpA.pdbbDGalf b-D-Galf.pdb b-D-galactose(furanose_form)bDGalnacOld b-D-GalNAc.pdb
+bDGalnac galnac_olgun.pdb#bDGalNAc galnac_olgun.pdb 
+bDGalNAcA bDGalNAcA.pdb
+bDGlc b-D-Glcp.pdb b-D-Glucose
+bDGlc23PyR bDGlc23PyR.pdb -b-D-Glcp23(R)PyrbDGlc23PyS bDGlc23PyS.pdb -b-D-Glcp23(S)PyrbDGlc46PyA bDGlc46PyA.pdb b-D-pyruvyl-glucopyranose(axial)bDGlc46PyE bDGlc46PyE.pdb b-D-pyruvyl-glucopyranose(equatorial)bDGlcA bglca_olgun.pdbbDGlc6A b-D-GlcpA.pdbbDGlcf b-D-Glcf.pdb b-D-glucose(furanose_form)#bDGlcNAc b-D-GlcNAc_olgun.pdb
+bDGlcNAc b-D-GlcNAc_alt.pdbbDGlcnac b-D-GlcNAc.pdbbDIdo b-D-Idop.pdb b-D-idosebDKdo b-D-Kdop.pdb 3-Deoxy-D-manno-oct-2-ulosonic_acidbKdo b-D-Kdop.pdb 3-Deoxy-D-manno-oct-2-ulosonic_acidbDLyx b-D-Lyxp.pdb b-L-lyxosebDLyxf b-D-Lyxf.pdb b-L-lyoxse(furanose_form)bDMan b-D-Manp.pdb b-D-mannose
+bDMan23PyR bDMan23PyR.pdb -b-D-Manp23(R)PyrbDMan23PyS bDMan23PyS.pdb -b-D-Manp23(S)PyrbDMan46PyA bDMan46PyA.pdb b-D-pyruvyl-mannopyranose(axial)bDMan46PyE bDMan46PyE.pdb b-D-pyruvyl-mannopyranose(equatorial)bDManA bDManA.pdbbDManf b-D-Manf.pdb b-D-mannose(furanose_form)
+#bDManNAc6Gly bDManNAc6Gly.pdbbDMannac b-D-ManNAc.pdb
+#bDMan6Gly bDMan6Gly.pdb
+#bDManNAcA bDManNAcA.pdb
+bDMurnac b-D-MurNAc.pdb N-Acetylmuramic_acidbDPar b-D-Parp.pdb b-paratose(3,6-dideoxy_glucose) bPar b-D-Parp.pdb b-paratose(3,6-dideoxy_glucose) bDQui b-D-Quip.pdb b-quinovose(6-deoxy_D-glucose)bQui b-D-Quip.pdb b-quinovose(6-deoxy_D-glucose)bDRib b-D-Ribp.pdb b-D-ribosebDRibf b-D-Ribf.pdb b-D-ribose (furanose_form)
+bDSug b-D-Sug.pdb 2-acetamido-2,6-dideoxy-α-D-xylo-hex-4-ulose	
+bDTal b-D-Talp.pdb b—D-talosebDTyv b-D-Tyvp.pdb b-tyvelose(3,6-dideoxy_mannose)bTyv b-D-Tyvp.pdb b-tyvelose(3,6-dideoxy_mannose)bDXyl b-D-Xylp.pdb b-D-xylosebDXylf b-D-Xylf.pdb b-D-xylose (furanose_form)bLAll b-L-Allp.pdb b-L-allosebLAlt b-L-Altp.pdb B-L-altrosebLAlt6d b-L-Altp6d.pdb 6-deoxy-b-L-altrosebLAra b-L-Arap.pdb b-L-arabinosebLAraf b-L-Araf.pdb b-L-arabinose(furanose_form)bLCol b-L-Colp.pdb b-colitose(3,6-dideoxy_L-galactose)bCol b-L-Colp.pdb b-colitose(3,6-dideoxy_L-galactose)bLFuc b-L-Fucp.pdb b-L-fucosebLGal b-L-Galp.pdb b-L-galactosebLGalA b-L-GalpA.pdbbLGlc b-L-Glcp.pdb b-L-glucosebLGlcA b-L-GlcpA.pdbbLIdo b-L-Ido.pdb b-L-idosebLIdoA b-L-IdoA.pdb
+bLIdod bL6dIdo_4C1.pdb b-L-6-deoxy-IdosebLIdod_1C4_ bL6dIdo_1C4.pdb b-L-6-deoxy-Idose(1C4_ring_conformation)bLIdod_4C1_ bL6dIdo_4C1.pdb b-L-6-deoxy-Idose(4C1_ring_conformation)bLLyx b-L-Lyxp.pdb b-L-lyxosebLMan b-L-Manp.pdb b-L-mannosebLRha b-L-Rhap.pdb b-rhamnose(6-deoxy_L-mannose)bRha b-L-Rhap.pdb b-rhamnose(6-deoxy_L-mannose)bLRib b-L-Ribp.pdb b-L-ribose
+bLTal b-L-Talp.pdb b-L-talose
+bLXyl b-L-Xylp.pdb b-L-xylose
+———LINEAR_ALDITOLS——— + one_formDGlcol D-glucitol.pdb D-glucitol
+DGro D-glycerol.pdb D-glycerol
+LGro1P GL1P.pdb
+Gro3P G3P_2R.pdb
+LGro3P G3P_2R.pdb
+DGro1P G3P_2R.pdb
+Gro1P GL1P.pdb
+LGro1P GL1P.pdb
+DGro2P D-glycerol2P.pdb 2P-linked-D-glycerolGro2P D-glycerol2P.pdb
+NDGroA ND-GroA.pdb N-linked-D-glycerol-A
+NLGroA NL-GroA.pdb N-linked-L-glycerol-A
+DRibol D-ribitol.pdb D-ribitolDRibol5P D-ribitol5-phosphate.pdbRibol D-ribitol.pdb D-ribitolRibol5P D-ribitol5-phosphate.pdb
+Ribol1P D-ribitol1-phosphate.pdb
+
+——other molecules——
+CycHex13diol cyclohexane13diol.pdb Cyclohexane-1,3-diol———Substituents——— + positionNAc NAc.pdb NAcetyl_substituentNAm NAm.pdb N-amindino_substituent
+NFo NFo.pdb N-formyl_substituentNFoZ NFo.pdb N-formyl_substituentNFoE NFoE.pdb N-formyl_substituent
+NS NS.pdb NS_substituent
+N NH3.pdb Nitrogen_substituent Ac Ac.pdb acetyl_substituentA A.pdb uronic_acid_substituent:POSITION_6_onlyOMe OMe.pdb O-Methyl_substituentMe OMe.pdb O_methylPEtN PEtN.pdb phosphoethanolamine_substituentPO4 PO4.pdb phosphate_substituent
+SO4 SO4.pdb sulphate_substituent
+Asn Asn.pdb Asparagine-N-linked
+Ser Ser.pdb Serine-O-linked
+Thr Thr.pdb Threonine-O-linked
+6Gly glycine.pdb Glycine
+#Hacky stuff
+#CRM strepBIII_CRM.pdb 
+#CRM strepBIII_CRM_GSKversion_4carb.pdb
+CRM CRM_builder.pdb
+#CRM CRM_fix.pdb CORRECTED_CRM_WITH _COMPLETE_IMPORTANT_LYSINES
+#CRM CRM_4ae0_original.pdb CRM_RECOMBINANT_DIPHTHERIA_TOXIN
+lysin Lys_frag.pdb
+prot Prot.pdb

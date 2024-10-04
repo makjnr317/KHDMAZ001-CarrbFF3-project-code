@@ -1,0 +1,25 @@
+ATOM      1  C1  BGAL    1       0.921  -1.081   0.190  1.00  0.00      CARB C 
+ATOM      2  H1  BGAL    1       0.775  -2.114  -0.201  1.00  0.00      CARB H 
+ATOM      3  O1  BGAL    1       2.293  -0.811   0.274  1.00  0.00      CARB O 
+ATOM      4  HO1 BGAL    1       2.616  -0.782  -0.629  1.00  0.00      CARB H 
+ATOM      5  C5  BGAL    1      -1.077  -0.343  -0.860  1.00  0.00      CARB C 
+ATOM      6  H5  BGAL    1      -1.234  -1.373  -1.263  1.00  0.00      CARB H 
+ATOM      7  O5  BGAL    1       0.338  -0.123  -0.687  1.00  0.00      CARB O 
+ATOM      8  C2  BGAL    1       0.286  -0.945   1.570  1.00  0.00      CARB C 
+ATOM      9  H2  BGAL    1       0.447   0.106   1.913  1.00  0.00      CARB H 
+ATOM     10  O2  BGAL    1       0.883  -1.818   2.542  1.00  0.00      CARB O 
+ATOM     11  HO2 BGAL    1       1.828  -1.612   2.567  1.00  0.00      CARB H 
+ATOM     12  C3  BGAL    1      -1.210  -1.189   1.472  1.00  0.00      CARB C 
+ATOM     13  H3  BGAL    1      -1.363  -2.233   1.106  1.00  0.00      CARB H 
+ATOM     14  O3  BGAL    1      -1.841  -1.091   2.748  1.00  0.00      CARB O 
+ATOM     15  HO3 BGAL    1      -1.250  -1.528   3.378  1.00  0.00      CARB H 
+ATOM     16  C4  BGAL    1      -1.828  -0.239   0.466  1.00  0.00      CARB C 
+ATOM     17  H4  BGAL    1      -2.890  -0.540   0.299  1.00  0.00      CARB H 
+ATOM     18  O4  BGAL    1      -1.837   1.098   0.954  1.00  0.00      CARB O 
+ATOM     19  HO4 BGAL    1      -2.119   1.055   1.878  1.00  0.00      CARB H 
+ATOM     20  C6  BGAL    1      -1.583   0.637  -1.896  1.00  0.00      CARB C 
+ATOM     21  H61 BGAL    1      -1.339   1.681  -1.589  1.00  0.00      CARB H 
+ATOM     22  H62 BGAL    1      -2.691   0.559  -1.975  1.00  0.00      CARB H 
+ATOM     23  O6  BGAL    1      -1.020   0.370  -3.182  1.00  0.00      CARB O 
+ATOM     24  HO6 BGAL    1      -0.093   0.633  -3.170  1.00  0.00      CARB H 
+END

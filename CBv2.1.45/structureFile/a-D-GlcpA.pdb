@@ -1,0 +1,23 @@
+ATOM      1  C1  AGLA    1       7.128   4.694   8.259  1.00  0.00      CARB C
+ATOM      2  H1  AGLA    1       8.157   5.054   8.457  1.00  0.00      CARB H
+ATOM      3  O1  AGLA    1       7.203   3.381   7.725  1.00  0.00      CARB O
+ATOM      4  HO1 AGLA    1       7.254   2.825   8.508  1.00  0.00      CARB H
+ATOM      5  C5  AGLA    1       5.070   5.350   7.001  1.00  0.00      CARB C
+ATOM      6  H5  AGLA    1       4.961   4.337   6.566  1.00  0.00      CARB H
+ATOM      7  O5  AGLA    1       3.345   6.413   5.636  1.00  0.00      CARB O
+ATOM      8  C2  AGLA    1       6.340   4.672   9.592  1.00  0.00      CARB C
+ATOM      9  H2  AGLA    1       6.471   5.655  10.085  1.00  0.00      CARB H
+ATOM     10  O2  AGLA    1       6.833   3.648  10.450  1.00  0.00      CARB O
+ATOM     11  HO2 AGLA    1       6.178   3.591  11.156  1.00  0.00      CARB H
+ATOM     12  C3  AGLA    1       4.832   4.432   9.359  1.00  0.00      CARB C
+ATOM     13  H3  AGLA    1       4.681   3.396   8.991  1.00  0.00      CARB H
+ATOM     14  O3  AGLA    1       4.131   4.590  10.585  1.00  0.00      CARB O
+ATOM     15  HO3 AGLA    1       3.213   4.718  10.321  1.00  0.00      CARB H
+ATOM     16  C4  AGLA    1       4.249   5.417   8.323  1.00  0.00      CARB C
+ATOM     17  H4  AGLA    1       4.309   6.446   8.734  1.00  0.00      CARB H
+ATOM     18  O4  AGLA    1       2.881   5.083   8.086  1.00  0.00      CARB O
+ATOM     19  HO4 AGLA    1       2.620   5.558   7.284  1.00  0.00      CARB H
+ATOM     20  C6  AGLA    1       4.536   6.322   5.931  1.00  0.00      CARB C
+ATOM     21  O61 AGLA    1       5.529   7.059   5.352  1.00  0.00      CARB O
+ATOM     22  O62 AGLA    1       6.495   5.582   7.294  1.00  0.00      CARB O
+END

@@ -1,0 +1,23 @@
+ATOM      1  C6  AGAL    1      -5.209  -4.169   6.020  1.00  0.00      CARB C 
+ATOM      2  O6  AGAL    1      -5.690  -4.645   4.960  1.00  0.00      CARB O 
+ATOM      3  O62 AGAL    1      -5.208  -2.975   6.432  1.00  0.00      CARB O 
+ATOM      4  C1  AGAL    1      -2.786  -5.920   8.310  1.00  0.00      CARB C 
+ATOM      5  H1  AGAL    1      -1.759  -5.586   8.589  1.00  0.00      CARB H 
+ATOM      6  O1  AGAL    1      -2.684  -7.230   7.815  1.00  0.00      CARB O 
+ATOM      7  HO1 AGAL    1      -2.426  -7.756   8.577  1.00  0.00      CARB H 
+ATOM      8  C5  AGAL    1      -4.671  -5.210   7.016  1.00  0.00      CARB C 
+ATOM      9  H5  AGAL    1      -4.728  -6.200   6.515  1.00  0.00      CARB H 
+ATOM     10  O5  AGAL    1      -3.290  -4.954   7.389  1.00  0.00      CARB O 
+ATOM     11  C2  AGAL    1      -3.641  -5.918   9.573  1.00  0.00      CARB C 
+ATOM     12  H2  AGAL    1      -3.589  -4.886   9.996  1.00  0.00      CARB H 
+ATOM     13  O2  AGAL    1      -3.161  -6.822  10.582  1.00  0.00      CARB O 
+ATOM     14  HO2 AGAL    1      -3.921  -6.954  11.168  1.00  0.00      CARB H 
+ATOM     15  C3  AGAL    1      -5.093  -6.217   9.237  1.00  0.00      CARB C 
+ATOM     16  H3  AGAL    1      -5.152  -7.233   8.777  1.00  0.00      CARB H 
+ATOM     17  O3  AGAL    1      -5.909  -6.221  10.411  1.00  0.00      CARB O 
+ATOM     18  HO3 AGAL    1      -6.223  -5.303  10.464  1.00  0.00      CARB H 
+ATOM     19  C4  AGAL    1      -5.600  -5.207   8.234  1.00  0.00      CARB C 
+ATOM     20  H4  AGAL    1      -6.621  -5.507   7.896  1.00  0.00      CARB H 
+ATOM     21  O4  AGAL    1      -5.701  -3.914   8.838  1.00  0.00      CARB O 
+ATOM     22  HO4 AGAL    1      -5.548  -3.303   8.072  1.00  0.00      CARB H 
+END

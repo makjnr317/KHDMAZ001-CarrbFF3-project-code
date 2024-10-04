@@ -1,0 +1,177 @@
+All 1 4 Asn,2,20 20
+All 1 3 Ser,2,20 20
+All 1 3 Thr,2,20 20
+A M 6 All,2,0 0
+Ac M 1 All,2,0 180
+Ac M 2 All,2,-45 0
+Ac M 3 All,2,-45 0
+Ac M 4 All,2,0 180
+Ac M 5 All,3,-60 60
+Ac M 6 All,3,-60 60
+NAc M 1 All,2,0 180
+NAc M 2 All,2,0 180
+NAc M 3 All,2,0 180
+NAc M 4 All,2,0 180
+NAc M 5 All,3,0 0 -60
+NAc M 6 All,3,0 0 -60
+NAm M 1 All,2,0 180
+NAm M 2 All,2,0 180
+NAm M 3 All,2,0 180
+NAm M 4 All,2,0 180
+NAm M 5 All,3,0 0 -60
+NAm M 6 All,3,0 0 -60
+N M 1 All,2,60 0
+N M 2 All,2,60 0
+N M 3 All,2,60 0
+N M 4 All,2,60 0
+N M 5 All,3,0 0 -60
+N M 6 All,3,0 0 -60
+Me M 1 All,2,0 -60
+Me M 2 All,2,0 -60
+Me M 3 All,2,0 -60
+Me M 4 All,2,0 -60
+Me M 5 All,3,-40 0 -60
+Me M 6 All,3,-40 0 -60
+OMe M 1 All,2,0 -60
+OMe M 2 All,2,0 -60
+SO3 M 6 All,3,-50 0 -60
+PO4 M 6 All,3,-18 75 0,0 180 -30
+PO4 M 1 All,3,-20 75 0
+aDFuc 1 3 bDGlcNAc,2,-21 -24,-28 -163,-11 19,-71 -76
+aDFuc 1 4 bDMan,2,-19 -19,-34 -154,20 20,-60 -60
+aDFucNAc 1 4 bDManNAc,2,-44 -26,-36 8,-36 -156
+aDFuc 1 4 bDGlcNAc,2,-46 -26,-31 29,16 19,-36 -159
+bDFuc 1 4 bDMan,2,51 -6,171 1
+bDFucNAc 1 4 bDManNAc,2,46 19, 46 -171
+aDGal 1 3 aDGal,2,-21 -24
+aDGal 1 3 bDGal,2,-21 -24
+aDGal 1 4 bDGal,2,-40 10,-25 20,20 30
+aDGal 1 4 aDGal,2,-40 10,-25 20,20 30
+aDGal 1 4 bDGlc,2,-40 10,20 30
+aDGal 1 4 aDNeu5Ac,2,-38 -23,-38.75 -176.25,43.75 8.75
+aDGal 1 3 aDGlc,2,-21 -24,-26 -174,-91 -34,-91 167
+aDGal 1 3 bDGlc,2,-28.75 -168.75,-41.25 -31.25,-33.75 178.75
+bDGal 1 3 bDGal,2,61 -4
+bDGal 1 3 bDGlcNAc,2,53 -16,171 4,61 -141,24 176
+bDGal 1 4 aLRha,2,26 26,61 11,-166 46,171 18
+bDGal 1 4 bLRha,2,26 26,61 11,-166 46,171 18
+bDGal 1 4 bDGlc,2,44 -4, 176 -4,30 175
+bDGal 1 4 bDGal,2,44 16
+bDGal 1 4 bDGlcNAc,2,51 -9,171 -1,64 -151
+bDGal 1 3 bDGlc,2,61 -4
+bDGal 1 3 bDGlcNAc,2,61 -4
+bDGalNAc 1 4 bDManNAc,2,41 -49,53 -11,161 4,39 164
+aDGal 1 6 bDGal,2,0 180
+aDGal 1 2 aDMan,2,-34 -1,-39 59
+aDGal 1 6 bDMan,2,0 180
+aDGlc 1 1 aDGlc,2,-45 -45
+aDGlc 1 2 aDGlc,2,-26 -36,-39 169,-26 41,-151 24
+aDGlc 1 2 aDMan,2,-39 64,-31 9
+aDGlc 1 2 aLRha,2,-25 40,-21 34,-30 180,-36 41
+aDGlc 1 3 aDGal,2,-28.75 -168.75,-41.25 -31.25,-33.75 178.75
+aDGlc 1 3 bDGal,2,-28.75 -168.75,-41.25 -31.25,-33.75 178.75
+aDGlc 1 3 aDGlc,2,-21 -24,-29 -171,-91 -24,-91 -151
+aDGlc 1 3 bDGlc,2,-28.75 -168.75,-41.25 -31.25,-33.75 178.75
+aDGlc 1 3 bDManNAc,2,-46 11,1 -39,-29 -146,-51 136
+aDGlc 1 3 aLFuc,26 19,29 171,-179 -6
+aDGlc 1 3 aLRha,2,-43.75 -28.75,-18.75 173.75,-91.25 -51.25,-91.25 -91.25
+aDGlc 1 3 aLRha1P,2,-50 -90,-28 43,-34 -39,-14 -54
+aDGlc 1 4 aDGal,2,-18 31,-30 0,-13 -161
+aDGlc 1 4 aDGlc,2,-25 -25,-50 -35,25 25,-25 -175
+aDGlc 1 4 aDGlcA,2,-25 -25
+aDGlc 1 4 bDGlc,2,-25 -25,-50 -50,25 25,-25 -175
+aDGlc 1 4 bDGlcNAc,2,-19 -26,23 13,-44 -171
+aDGlc 1 4 bDGlcA,2,-25 -25
+aDGlc 1 4 aDMan,2,-25 -25
+aDGlc 1 4 aDManA,2,-25 -25
+aDGlc 1 4 bDManA,2,-25 -25
+aDGlc 1 4 aLRha,2,-36 30,-54 150,-14 -176
+aDGlc 1 2 aLRha1P,2,-20 -100,-41 -24,-21 34,-11 -171,-36 41,-21 34,-41 -136,-14 -161,-51 -140,-21 34,-41 -24
+aDGlc 1 6 bDGal,2,0 60,0 -60,0 180
+aDGlc 1 6 bDGlc,2,0 60,0 -60,0 180
+aDGlc 1 O aDGlc6PO4,2,100 0
+bDGlcNAc 1 3 aDGalNAc,2,50 -11
+aDGalNAc 1 4 aDGalNAc,2,-37 -5
+aDGlcNAcP O 6 aDGlc,2,0 0
+aDGlcA 1 3 aLFuc,26 19,29 171,-179 -6
+aDGlcNAc1P O 4 aDGlcNAc1P,2,86 -157,80 80,180 180,0 180,0 0,180 0
+bDGlc 1 3 bDGlc,2,47.5 15,25 15,175 2.5,15 177.5,62.5 60,155 165,45 142.5
+bDGlc 1 3 bDGlcA,2,56 6,61 -159,54 179,166 9,-179 11
+bDGlc 1 3 aDGlc,2,47.5 15
+bDGalf 1 3 bDGlc,2,47.5 15
+bDGlc 1 3 bDGalf,2,47.5 15
+bDGlc 1 4 aDGlc,2,47 2.5,-25 -25,-45 -30,15 -175,50 -160,180 0
+bDGlc 1 4 bDGlc,2,47 2.5,-25 -25,15 -175,180 0
+bDGlcNAc 1 4 bDGlcNAc,2,51 -9,171 -1,64 -151
+bDGlcA 1 4 bDGlc,2,49 -11,64 -154,169 6
+bDGlc 1 4 bDGal,2,44 16
+bDGlc 1 4 aDMan,2,50 0
+bDGlc 1 2 aDMan,2,166 14,46 -1,-20 -20,65 60
+bDGlcA 1 2 aDMan,2,174 21,41 -74,26 -31
+bDGlc 1 2 aLRha,2,44 21,179 11,-180 4,39 74
+bDGlcNAc 1 2 aLRha,2,54 14,44 166,169 6
+bDGlcNAc 1 2 aLRha3PEtN,2,54 14,44 166,169 6
+bDGlc 1 4 bDManA,2,47 2.5,-25 -25,15 -175,180 0
+bDGlc 1 6 bDMan,2,0 60,0 -60,0 180
+aDGlc 1 4 aDNeu5Ac,2,-34 -29,41 1,-43 156
+bDGlcNAc 1 3 bDGal,2,56 14,44 157
+aDMan 1 2 aDMan,2,-45 -20,-35 42,35 28,-25 178,172 -9
+aDMan 1 2 bDMan,2,-45 -20,-35 42,35 28,-25 178,172 -9
+aDMan 1 2 aDRha,2,-51.25 -11.25,-41 51,-28.75 -168.75
+bDMan 1 2 bDMan,2,51 1,161 6,54 -174
+bDMan 1 2 aDMan,2,51 1,161 6,54 -174,180 180
+aDMan 1 3 aDGal,2,-28.75 -168.75,-41.25 -31.25,-33.75 178.75
+aDMan 1 3 bDGal,2,-28.75 -168.75,-41.25 -31.25,-33.75 178.75
+aDMan 1 3 bDGlc,2,-28.75 -168.75,-41.25 -31.25,-33.75 178.75
+aDMan 1 3 aDMan,2,-44 -19,-36 46,-34 -151,30 30
+aDMan 1 6 bDGal,2,0 60,0 -60,0 180
+aDMan 1 6 aDMan,2,0 60,0 -60,0 180
+aDMan 1 4 aDMan,2,-25 -25,-50 -35,25 25,-25 -175
+aDMan 1 4 bDMan,2,-25 -25,-50 -35,25 25,-25 -175
+aDMan 1 4 aLRha,2,-36 30,-54 150,-14 -176
+aDMan1P O 6 aDMan,2,95 -61,180 180,0 180,0 0,180 0
+aDManNAc1P O 6 aDManNAc1P,2,95 -61,180 180,0 180,0 0,180 0
+aDManNAc3Ac1P O 6 aDManNAc3Ac1P,2,95 -61,180 180,0 180,0 0,180 0
+aDMan46PyA 1 2 aDMan46PyA,-45 -20,-37 23,-35 180,180 -3
+bDMan 1 4 aDGlc,2,-180 10,-51 -6,66 -151
+bDMan 1 4 bDMan,2,51 -6,171 1
+bDMan 1 4 bDGlc,2,60 -10
+bDManNAc 1 4 bDManNAc,2,69 -19,43 -8
+bDMan 1 3 bDFuc,2,51 14,41 159
+bDMan 1 3 aDFuc,2,41 159,66 -11,111 -41
+bDManNAc 1 3 bDFucNAc,2,54 -9
+bDManNAc 1 3 aDFucNAc,2,54 -9
+bDManNAc 1 4 aDGlc,2,51 -6,49 -14,66 -151
+bDManNAc 4 O aLRha1P,2,0 180,0 0,180 0
+aDNeu5Ac 2 6 aDGlc,2,-65 64
+aDNeu5Ac 2 6 aDGal,2,-58 58
+Ribol5P O 2 aDGal,2,64 161,166 164,-46 154,171 24,-64 -79,156 -54,51 -71,-60 30,60 30
+Ribol5P O 2 aDGlc,2,56 156,169 154,-49 149,174 21,158 -66,-61 -76,46 -66,-60 30,60 30
+aLAlt6d 1 4 bDGalA,2,-40 10,20 30
+aLRha 1 2 aLRha,2,30 30,30 -30,30 180
+aLRha 1 2 bDGal,2,39 21,31 166,169 9,56 -146
+aLRha 1 3 aLRha,2,49 -4,28 -66,30 -30,10 -30,30 160
+aDRha 1 3 aDMan,2,-44 -19,-31 69,-34 -149
+aDRha 1 3 aDRha,2,-46 -3,-29 64,-36 -146
+aLRha 1 3 bLRha,2,46 14
+aLRha 1 3 Ribol5P,2,-46 -36,-60 10,-21 -171,-169 -6,-91 176
+aLRha 1 3 aDGal,2,29 154,49 -1
+aLRha 1 3 bDGlc,2,41 -19,33 161
+aLRha2Ac 1 3 bDGlcNAc,2,30 -30,40 -60,10 -30,60 -60,30 60,50 -125,25 180,-60 -60,0 -180
+aLRha 1 3 bDGlcNAc,2,30 -30,40 -60,10 -30,60 -60,30 60,50 -125,25 180,-60 -60,0 -180
+aLRha 1 4 bDGal,2,26 19
+aLRha 1 4 bDGlc,2,36 -31,54 -136,173 -1,-66 -61
+bLRha 1 4 bDGlc,2,-51 -8,-46 -166,-161 -21,29 8
+aLRha 1 4 Ribol5P,2,56 63,-14 -178,-171 -21,-91 -46,-91 146
+aLRha1P O 4 bDManNAc,2,-50 -130,180 180,0 180,0 0,180 0
+aLRha1P O 4 bDMan,2,0 0,0 180,0 0,180 0
+aLFuc 1 3 aDGlc,2,26 19,29 171,-179 -6
+aLFuc 1 4 bDGal,2,26 19,29 171,-179 -6
+aLFuc 1 3 bDGlc,2,26 19,29 171,-179 -6
+aLFuc 1 6 bDGlc,2,0 60,0 -60,0 180
+aDPar 1 3 aDMan,2,-51 -11,-33 69,-33 154
+aDNeu5Ac 2 3 bDGal,2,-56 -6,-61 11,-44 179,59 -11
+aDXyl 1 2 aDMan,2,-24 -9
+bDXyl 1 2 aDMan,2,169 9,46 -11
+DGlrl2P O 3 bDGal,2,0 0
+END

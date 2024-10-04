@@ -1,0 +1,21 @@
+ATOM      1  C1  AXYL    1       1.803  -0.843   0.163  1.00  0.00      CARB C
+ATOM      2  H1  AXYL    1       2.867  -0.615   0.222  1.00  0.00      CARB H
+ATOM      3  O1  AXYL    1       1.763  -2.177  -0.328  1.00  0.00      CARB O
+ATOM      4  HO1 AXYL    1       0.726  -2.500  -0.421  1.00  0.00      CARB H
+ATOM      5  C5  AXYL    1      -0.250  -0.325  -0.946  1.00  0.00      CARB C
+ATOM      6  H51 AXYL    1      -0.352  -1.383  -1.200  0.00  0.00      CARB H
+ATOM      7  H52 AXYL    1      -0.617   0.277  -1.777  0.00  0.00      CARB H
+ATOM      8  O5  AXYL    1       1.141   0.002  -0.787  1.00  0.00      CARB O
+ATOM      9  C2  AXYL    1       1.161  -0.633   1.531  1.00  0.00      CARB C
+ATOM     10  H2  AXYL    1       1.388   0.386   1.842  1.00  0.00      CARB H
+ATOM     11  O2  AXYL    1       1.739  -1.554   2.447  1.00  0.00      CARB O
+ATOM     12  HO2 AXYL    1       2.516  -1.135   3.086  1.00  0.00      CARB H
+ATOM     13  C3  AXYL    1      -0.346  -0.827   1.489  1.00  0.00      CARB C
+ATOM     14  H3  AXYL    1      -0.560  -1.883   1.324  1.00  0.00      CARB H
+ATOM     15  O3  AXYL    1      -0.898  -0.399   2.740  1.00  0.00      CARB O
+ATOM     16  HO3 AXYL    1      -1.217  -1.335   3.200  1.00  0.00      CARB H
+ATOM     17  C4  AXYL    1      -0.954  -0.008   0.373  1.00  0.00      CARB C
+ATOM     18  H4  AXYL    1      -0.831   1.044   0.629  1.00  0.00      CARB H
+ATOM     19  O4  AXYL    1      -2.335  -0.300   0.221  1.00  0.00      CARB O
+ATOM     20  HO4 AXYL    1      -2.926   0.433   0.768  1.00  0.00      CARB H
+END

@@ -1,0 +1,146 @@
+﻿RESI AGLC alpha-D-glucose
+RESI BGLC beta-D-glucose
+RESI AALT alpha-D-altrose
+RESI BALT beta-D-altrose
+RESI AALL alpha-D-allose
+RESI BALL beta-D-allose
+RESI AGAL alpha-D-galactose
+RESI BGAL beta-D-galactose
+RESI AGUL alpha-D-gulose
+RESI BGUL beta-D-gulose
+RESI AIDO alpha-D-idose
+RESI BIDO beta-D-idose
+RESI AMAN alpha-D-mannose
+RESI BMAN beta-D-mannose
+RESI ATAL alpha-D-talose
+RESI BTAL beta-D-talose
+RESI MGLYOL Meso-GLYcerOL
+RESI MERYOL Meso-ERYthritOL (mertitol)
+RESI DTHROL D-THReitOL
+RESI LTHROL L-THReitOL
+RESI MRIBOL Meso-RIBitOL
+RESI DARAOL D-ARAbitOL (same as lyxitol)
+RESI LARAOL L-ARAbitOL (same as lyxitol)
+RESI MXYLOL Meso-XYLitOL
+RESI MALLOL Meso-ALLitOL
+RESI DALTOL D-ALTritOL (same as talitol)
+RESI LALTOL L-ALTritOL (same as talitol)
+RESI DGLUOL D-GLUcitOL (sorbitol)
+RESI LGLUOL L-GLUcitOL
+RESI DMANOL D-MANnitOL
+RESI LMANOL L-MANnitOL
+RESI DGULOL D-GULitOL
+RESI LGULOL L-GULitOL
+RESI DIDIOL D-IDItOL
+RESI LIDIOL L-IDItOL
+RESI MGALOL Meso-GALacticOL
+RESI ALLOSE D-Allose, open, free aldehdye
+RESI PSICOS D-Psicose, open, free ketose
+RESI INI1 cyclic  myi-inositol
+RESI INI2 cyclic  epi-inositol
+RESI INI3 cyclic  allo-inositol
+RESI INI4 cyclic  l-chiro-inositol
+RESI INI5 cyclic  muco-inositol
+RESI KETO ketoses
+RESI ALDOS aldoses
+RESI ADEO alpha-Deoxy-Ribose
+RESI BDEO beta-Deoxy-Ribose
+RESI ARIB alpha-Ribose
+RESI BRIB beta-Ribose
+RESI AARB alpha-Arabinose
+RESI BARB beta-Arabinose
+RESI ALYF alpha-Lyxofuranose
+RESI BLYF beta-Lyxofuranose
+RESI AXYF alpha-Xylofuranose
+RESI BXYF beta-Xylofuranose
+RESI AFRU alpha-Fructofuranose
+RESI BFRU beta-Fructofuranose
+============================================
+mapping
+Functions.convertSWEET("a-D-Glcp.pdb", "AGLC");
+            Functions.convertSWEET("b-D-Glcp.pdb", "BGLC");
+            Functions.convertSWEET("a-D-Manp.pdb", "AMAN");
+            Functions.convertSWEET("b-D-Manp.pdb", "BMAN");
+
+            Functions.convertSWEET("a-D-Galp.pdb", "AGAL");
+            Functions.convertSWEET("b-D-Galp.pdb", "BGAL");
+            Functions.convertSWEET("a-D-Allp.pdb", "AALL");
+            Functions.convertSWEET("b-D-Allp.pdb", "BALL");
+            Functions.convertSWEET("a-D-Arap.pdb", "AARB");
+            Functions.convertSWEET("b-D-Arap.pdb", "BARB");
+            Functions.convertSWEET("a-D-Fruf.pdb", "AFRU");
+            Functions.convertSWEET("b-D-Fruf.pdb", "BFRU");
+            Functions.convertSWEET("a-D-Idop.pdb", "AIDO");
+            Functions.convertSWEET("b-D-Idop.pdb", "BIDO");
+            Functions.convertSWEET("a-D-Ribp.pdb", "ARIB");
+            Functions.convertSWEET("b-D-Ribp.pdb", "BRIB");
+            Functions.convertSWEET("a-D-Arap.pdb", "AARB");
+            Functions.convertSWEET("b-D-Arap.pdb", "BARB");
+            Functions.convertSWEET("a-D-Lyxf.pdb", "ALYF");
+            Functions.convertSWEET("b-D-Lyxf.pdb", "BLYF");
+            Functions.convertSWEET("a-D-Xylf.pdb", "AXYF");
+            Functions.convertSWEET("b-D-Xylf.pdb", "BXYF");
+
+ * 
+ * ===
+ * Functions.convertSWEET("a-D-Allp.pdb", "AALL");
+            Functions.convertSWEET("a-D-Allf.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Altp.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Eryf.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Frup.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Fucp.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Galf.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Lyxp.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Manf.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Quip.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Rhap.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Ribf.pdb", "UNTI");
+            Functions.convertSWEET("a-D-Xylp.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Allp.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Altp.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Araf.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Arap.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Galp.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Lyxp.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Manp.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Quip.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Ribp.pdb", "UNTI");
+            Functions.convertSWEET("a-L-Xylp.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Allf.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Altp.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Eryf.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Frup.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Fucp.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Galf.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Glcf.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Lyxp.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Manf.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Quip.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Rhap.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Ribf.pdb", "UNTI");
+            Functions.convertSWEET("b-D-Xylp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Allp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Altp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Araf.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Arap.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Fucp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Galp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Galp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Glcp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Lyxp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Manp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Quip.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Rhap.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Ribp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-Xylp.pdb", "UNTI");
+            Functions.convertSWEET("b-L-ManpA.pdb", "UNTI");
+            Functions.convertSWEET("b-L-GlcpA.pdb", "UNTI");
+            Functions.convertSWEET("b-L-GalpA.pdb", "UNTI");
+            Functions.convertSWEET("b-D-ManpA.pdb", "UNTI");
+            Functions.convertSWEET("b-D-GlcpA.pdb", "UNTI");
+            Functions.convertSWEET("b-D-GalpA.pdb", "UNTI");
+            Functions.convertSWEET("a-L-ManpA.pdb", "UNTI");
+            Functions.convertSWEET("a-L-GlcpA.pdb", "UNTI");
+            Functions.convertSWEET("a-L-GalpA.pdb", "UNTI");
+            Functions.convertSWEET("a-D-GalpA.pdb", "UNTI");
+            Functions.convertSWEET("a-D-ManpA.pdb", "UNTI");

@@ -1,0 +1,25 @@
+ATOM      1  C1  AMAN    1       1.668  -0.757   0.104  1.00  0.00      CARB C 
+ATOM      2  H1  AMAN    1       2.745  -0.473   0.194  1.00  0.00      CARB H 
+ATOM      3  O1  AMAN    1       1.647  -2.067  -0.393  1.00  0.00      CARB O 
+ATOM      4  HO1 AMAN    1       0.748  -2.304  -0.627  1.00  0.00      CARB H 
+ATOM      5  C5  AMAN    1      -0.372  -0.029  -0.922  1.00  0.00      CARB C 
+ATOM      6  H5  AMAN    1      -0.539  -1.032  -1.383  1.00  0.00      CARB H 
+ATOM      7  O5  AMAN    1       1.045   0.203  -0.753  1.00  0.00      CARB O 
+ATOM      8  C2  AMAN    1       1.046  -0.682   1.489  1.00  0.00      CARB C 
+ATOM      9  H2  AMAN    1       1.507  -1.479   2.124  1.00  0.00      CARB H 
+ATOM     10  O2  AMAN    1       1.321   0.573   2.131  1.00  0.00      CARB O 
+ATOM     11  HO2 AMAN    1       1.312   1.284   1.478  1.00  0.00      CARB H 
+ATOM     12  C3  AMAN    1      -0.445  -0.941   1.411  1.00  0.00      CARB C 
+ATOM     13  H3  AMAN    1      -0.606  -1.983   1.042  1.00  0.00      CARB H 
+ATOM     14  O3  AMAN    1      -1.058  -0.859   2.696  1.00  0.00      CARB O 
+ATOM     15  HO3 AMAN    1      -0.552  -0.219   3.218  1.00  0.00      CARB H 
+ATOM     16  C4  AMAN    1      -1.091   0.013   0.424  1.00  0.00      CARB C 
+ATOM     17  H4  AMAN    1      -1.013   1.052   0.826  1.00  0.00      CARB H 
+ATOM     18  O4  AMAN    1      -2.470  -0.287   0.259  1.00  0.00      CARB O 
+ATOM     19  HO4 AMAN    1      -2.837  -0.464   1.136  1.00  0.00      CARB H 
+ATOM     20  C6  AMAN    1      -0.892   1.003  -1.901  1.00  0.00      CARB C 
+ATOM     21  H61 AMAN    1      -0.729   2.029  -1.501  1.00  0.00      CARB H 
+ATOM     22  H62 AMAN    1      -1.988   0.867  -2.051  1.00  0.00      CARB H 
+ATOM     23  O6  AMAN    1      -0.248   0.884  -3.171  1.00  0.00      CARB O 
+ATOM     24  HO6 AMAN    1       0.705   0.963  -3.050  1.00  0.00      CARB H 
+END

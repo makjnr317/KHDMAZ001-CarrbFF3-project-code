@@ -1,0 +1,14 @@
+ATOM      1  C2   NGRO   1       0.047   0.650   0.379                       C
+ATOM      2  H2   NGRO   1       0.285   0.581   1.457                       H
+ATOM      3  O2   NGRO   1      -0.587   1.867   0.087                       O
+ATOM      4  HO2  NGRO   1      -1.515   1.614  -0.108                       H
+ATOM      5  C3   NGRO   1       1.366   0.569  -0.408                       C
+ATOM      6  H31  NGRO   1       1.161   0.443  -1.475                       H
+ATOM      7  O3   NGRO   1       2.169  -0.551  -0.017                       O
+ATOM      8  HO3  NGRO   1       2.541  -0.357   0.858                       H
+ATOM      9  H32  NGRO   1       1.908   1.515  -0.279                       H
+ATOM     10  C1   NGRO   1      -0.922  -0.504   0.045                       C
+ATOM     11  OC   NGRO   1      -2.092  -0.244  -0.223                       O
+ATOM     12  N    NGRO   1      -0.408  -1.755   0.108                       N
+ATOM     13  HN   NGRO   1       0.578  -1.864   0.326                       H
+END
